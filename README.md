@@ -1,5 +1,5 @@
 # Timer
-A easy-use timer which is implemented in C++11. 
+An easy-use timer which is implemented in C++11. 
 
 Tested on OS X / Raspbian Linux. 
 
